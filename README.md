@@ -1,0 +1,2 @@
+# ccgen
+conventional commit generator
